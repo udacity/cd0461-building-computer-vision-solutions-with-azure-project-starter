@@ -1,7 +1,7 @@
-Passanger Name,Carrier ,Flight No.,Class,From,To,Date,Baggage,Seat,Gate,Boarding Time,Ticket No.
-Sameer Kumar,UA,234,Economy,San Francisco,Chicago,"April 20, 2022",YES,34A,G1,10:00 AM PST,34236746
-Radha S. Kumar,UA,234,Economy,San Francisco,Chicago,"April 20, 2022",YES,34B,G1,10:00 AM PST,34236747
-James Webb,UA,234,Business,San Francisco,Chicago,"April 20, 2022",No,1A,G1,10:00 AM PST,34236748
-Libby Herold,UA,234,Business,San Francisco,Chicago,"April 20, 2022",No,3D,G1,10:00 AM PST,34236749
-James Jackson,UA,234,Economy,San Francisco,Chicago,"April 20, 2022",YES,25B,G1,10:00 AM PST,34236750
-Avkash Chauhan,UA,234,Economy,San Francisco,Chicago,"April 20, 2022",No,20A,G1,10:00 AM PST,34236751
+Passanger Name,Carrier ,Flight No.,Class,From,To,Date,Baggage,Seat,Gate,Boarding Time,Ticket No.,DateOfBirth,DoBValidation,PersonValidation,LuggageValidation,NameValidation,BoardingPassValidation
+Sameer Kumar,UA,234,Economy,San Francisco,Chicago,"April 20, 2022",YES,34A,G1,10:00 AM PST,34236746,01/25/1990,FALSE,FALSE,FALSE,FALSE,FALSE
+Radha S. Kumar,UA,234,Economy,San Francisco,Chicago,"April 20, 2022",YES,34B,G1,10:00 AM PST,34236747,03/05/1094,FALSE,FALSE,FALSE,FALSE,FALSE
+James Webb,UA,234,Business,San Francisco,Chicago,"April 20, 2022",No,1A,G1,10:00 AM PST,34236748,12/15/1970,FALSE,FALSE,FALSE,FALSE,FALSE
+Libby Herold,UA,234,Business,San Francisco,Chicago,"April 20, 2022",No,3D,G1,10:00 AM PST,34236749,02/10/1996,FALSE,FALSE,FALSE,FALSE,FALSE
+James Jackson,UA,234,Economy,San Francisco,Chicago,"April 20, 2022",YES,25B,G1,10:00 AM PST,34236750,10/12/1956,FALSE,FALSE,FALSE,FALSE,FALSE
+Avkash Chauhan,UA,234,Economy,San Francisco,Chicago,"April 20, 2022",No,20A,G1,10:00 AM PST,34236751,01/01/1990,FALSE,FALSE,FALSE,FALSE,FALSE
